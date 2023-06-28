@@ -6,4 +6,5 @@ I'm an Audio/Acoustic R&D Engineer. I'm interested in:
 - audio plugin develoment ([phase modulation synth](https://github.com/victorzheleznov/phase-modulation-synthesizer));
 - digital signal processing and machine learning for audio.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorzheleznov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&labelColor=0072b1&color=0072b1)](https://www.linkedin.com/in/victorzheleznov/)
+[![Mail](https://img.shields.io/badge/Email-purple)](mailto:victorzheleznov@ya.ru)
